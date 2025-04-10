@@ -7,3 +7,4 @@ react + typescript + SWC
 
 npm i zod
 npm i zustand
+npm i axios
